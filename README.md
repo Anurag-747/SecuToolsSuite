@@ -59,9 +59,9 @@ Run the main script:
 
 ## Screenshots
 
-![Screenshot_1](https://imgur.com/a/6zbRFCQ)
-![Screenshot_2](https://imgur.com/a/imzUDEw)
-![Screenshot_3](https://imgur.com/a/Bau4Qc4)
+![Screenshot_1](https://github.com/Anurag-747/SecuToolsSuite/blob/main/Screenshot_1.png)
+![Screenshot_2](https://github.com/Anurag-747/SecuToolsSuite/blob/main/Screenshot_2.png)
+![Screenshot_3](https://github.com/Anurag-747/SecuToolsSuite/blob/main/Screenshot_3.png)
 
 ## Author
 
